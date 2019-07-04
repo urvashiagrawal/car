@@ -1,0 +1,419 @@
+{
+	"1.jpg79148": {
+		"filename": "1.jpg",
+		"size": 79148,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [454, 388, 364, 375, 422, 495, 516, 554, 539, 550, 539, 521, 495],
+				"all_points_y": [143, 296, 424, 505, 597, 633, 577, 489, 349, 259, 210, 166, 150]
+			},
+			"region_attributes": {
+				"name": "damage"
+			}
+		}, {
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [528, 505, 392, 391, 409, 432, 477, 528, 560, 563, 548, 537],
+				"all_points_y": [622, 675, 675, 712, 778, 824, 822, 785, 729, 688, 662, 647]
+			},
+			"region_attributes": {
+				"name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"4.jpg58618": {
+		"filename": "4.jpg",
+		"size": 58618,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [538, 445, 412, 431, 480, 496, 495, 505, 573, 576, 712, 780, 813, 823, 748, 693, 596],
+				"all_points_y": [143, 255, 473, 660, 732, 748, 820, 865, 891, 979, 982, 843, 670, 437, 270, 137, 130]
+			},
+			"region_attributes": {
+				"name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"31.jpg122936": {
+		"filename": "31.jpg",
+		"size": 122936,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [861, 704, 645, 587, 508, 428, 346, 347, 310, 327, 341, 333, 310, 223, 220, 262, 302, 317, 259, 255, 318, 388, 456, 535, 639, 722, 817, 756, 722, 751, 788, 842, 882, 888],
+				"all_points_y": [405, 489, 528, 460, 419, 405, 406, 434, 469, 521, 538, 592, 602, 567, 620, 642, 662, 714, 709, 752, 804, 866, 910, 956, 959, 862, 778, 762, 751, 696, 635, 579, 552, 479]
+			},
+			"region_attributes": {
+				"name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"47.jpg98681": {
+		"filename": "47.jpg",
+		"size": 98681,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [162, 244, 301, 344, 379, 396, 435, 512, 563, 694, 722, 778, 806, 806, 798, 761, 764, 892, 1001, 1004, 997, 955, 900, 768, 700, 693, 642, 599, 564, 499, 409, 369, 210, 155, 113, 106, 120, 139, 153, 158, 155],
+				"all_points_y": [386, 382, 393, 385, 405, 431, 463, 477, 425, 419, 444, 480, 519, 541, 573, 626, 651, 600, 545, 605, 687, 748, 806, 808, 794, 800, 784, 761, 774, 781, 803, 808, 817, 769, 681, 600, 532, 498, 502, 457, 434]
+			},
+			"region_attributes": {
+				"name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"50.jpg139156": {
+		"filename": "50.jpg",
+		"size": 139156,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [187, 218, 255, 294, 333, 402, 447, 563, 590, 610, 654, 725, 765, 808, 810, 772, 751, 736, 694, 568, 451, 330, 244, 195],
+				"all_points_y": [247, 276, 360, 461, 458, 473, 487, 464, 450, 450, 441, 414, 360, 321, 301, 213, 174, 156, 156, 169, 187, 202, 224, 239]
+			},
+			"region_attributes": {
+				"name": "damage"
+			}
+		}, {
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [443, 466, 563, 633, 720, 754, 804, 840, 856, 849, 738, 642, 519, 457, 438],
+				"all_points_y": [593, 563, 525, 502, 477, 516, 496, 485, 537, 603, 667, 680, 684, 670, 635]
+			},
+			"region_attributes": {
+				"name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"58.jpg88417": {
+		"filename": "58.jpg",
+		"size": 88417,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [749, 806, 837, 842, 853, 777, 764, 707, 635, 589, 555, 472, 388, 448, 457, 383, 282, 307, 353, 404, 472, 496, 526, 584, 636, 677],
+				"all_points_y": [327, 414, 474, 552, 622, 554, 532, 531, 529, 579, 584, 547, 500, 428, 385, 393, 399, 325, 234, 230, 230, 169, 113, 114, 169, 208]
+			},
+			"region_attributes": {
+				"name": "damage"
+			}
+		}, {
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [321, 204, 143, 98, 58, 35, 35, 23, 23, 27, 25, 45, 77, 140, 184, 224, 239, 244, 276, 315],
+				"all_points_y": [176, 111, 139, 123, 80, 113, 172, 244, 318, 347, 367, 404, 427, 435, 427, 370, 350, 323, 276, 220]
+			},
+			"region_attributes": {
+				"name": "damage"
+			}
+		}, {
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [146, 171, 168, 174, 159, 148, 149, 158],
+				"all_points_y": [667, 709, 745, 785, 793, 784, 748, 719]
+			},
+			"region_attributes": {
+				"name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"69.jpg112352": {
+		"filename": "69.jpg",
+		"size": 112352,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [461, 498, 545, 586, 602, 590, 563, 539, 512, 485, 467],
+				"all_points_y": [675, 654, 633, 671, 709, 755, 794, 784, 754, 733, 709]
+			},
+			"region_attributes": {
+				"name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"77.jpg90740": {
+		"filename": "77.jpg",
+		"size": 90740,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [398, 372, 382, 409, 554, 586, 600, 606, 664, 677, 691, 700, 716, 687, 667, 629, 594, 547, 502, 453, 419],
+				"all_points_y": [469, 428, 412, 391, 437, 448, 487, 511, 600, 639, 690, 714, 749, 749, 738, 677, 620, 577, 526, 493, 473]
+			},
+			"region_attributes": {
+				"name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"image80.jpg19410": {
+		"filename": "image80.jpg",
+		"size": 19410,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [343, 314, 276, 252, 162, 108, 136, 191, 243, 313, 331, 343],
+				"all_points_y": [189, 198, 202, 216, 235, 260, 273, 262, 249, 236, 215, 189]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}, {
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [54, 85, 159, 258, 285, 325, 336, 325, 299, 278, 233, 195, 131, 98, 84, 54],
+				"all_points_y": [321, 333, 328, 298, 293, 273, 278, 285, 293, 307, 321, 340, 351, 352, 339, 321]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}, {
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [288, 335, 320, 298, 248, 250, 260, 279, 294, 288],
+				"all_points_y": [417, 389, 386, 397, 413, 417, 427, 418, 412, 417]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"image75.jpeg3494": {
+		"filename": "image75.jpeg",
+		"size": 3494,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [158, 143, 130, 125, 136, 139, 156, 158],
+				"all_points_y": [54, 56, 60, 69, 72, 72, 65, 54]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"image79.jpg22265": {
+		"filename": "image79.jpg",
+		"size": 22265,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [127, 138, 157, 199, 278, 305, 321, 323, 278, 192, 168, 134, 127],
+				"all_points_y": [141, 151, 167, 177, 175, 168, 159, 137, 107, 93, 113, 146, 141]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"image78.jpg24447": {
+		"filename": "image78.jpg",
+		"size": 24447,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [376, 358, 304, 273, 237, 202, 185, 168, 161, 169, 196, 206, 231, 268, 294, 331, 335, 313, 289, 264, 210, 215, 272, 289, 326, 374, 376],
+				"all_points_y": [105, 54, 22, 32, 55, 92, 128, 173, 217, 255, 270, 283, 289, 289, 293, 284, 267, 255, 254, 243, 210, 182, 176, 171, 168, 121, 105]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"image77.jpg285224": {
+		"filename": "image77.jpg",
+		"size": 285224,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [310, 328, 355, 367, 364, 340, 313, 304, 315, 310],
+				"all_points_y": [311, 319, 334, 325, 311, 304, 299, 308, 309, 311]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}, {
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [453, 478, 502, 512, 531, 526, 500, 494, 467, 440, 438, 445, 445, 453],
+				"all_points_y": [365, 371, 379, 392, 389, 376, 369, 365, 356, 355, 358, 359, 361, 365]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"image76.jpg46041": {
+		"filename": "image76.jpg",
+		"size": 46041,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [533, 556, 583, 590, 594, 583, 569, 490, 415, 414, 420, 418, 432, 437, 433, 441, 450, 478, 503, 533],
+				"all_points_y": [199, 217, 247, 298, 354, 391, 417, 423, 400, 384, 341, 304, 279, 248, 221, 211, 204, 195, 197, 199]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"image75.jpg25136": {
+		"filename": "image75.jpg",
+		"size": 25136,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [275, 312, 356, 605, 621, 625, 598, 564, 425, 384, 285, 248, 275],
+				"all_points_y": [176, 173, 173, 162, 144, 121, 120, 121, 131, 142, 150, 170, 176]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"image74.jpeg7824": {
+		"filename": "image74.jpeg",
+		"size": 7824,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [49, 56, 68, 58, 103, 132, 156, 233, 277, 274, 259, 201, 145, 80, 49],
+				"all_points_y": [60, 83, 104, 116, 127, 129, 132, 125, 87, 67, 47, 51, 62, 62, 60]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"image73.jpg12783": {
+		"filename": "image73.jpg",
+		"size": 12783,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [133, 135, 134, 140, 135, 133, 118, 106, 94, 82, 74, 71, 90, 98, 109, 124, 132, 133],
+				"all_points_y": [70, 84, 105, 149, 179, 204, 221, 219, 193, 171, 145, 127, 115, 107, 92, 72, 55, 70]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"image72.jpeg8043": {
+		"filename": "image72.jpeg",
+		"size": 8043,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [125, 158, 180, 195, 176, 171, 157, 146, 138, 136, 127, 123, 123, 124, 125],
+				"all_points_y": [55, 74, 87, 106, 136, 148, 148, 143, 143, 128, 120, 101, 84, 60, 55]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"image65.jpg11051": {
+		"filename": "image65.jpg",
+		"size": 11051,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [75, 119, 146, 162, 182, 210, 204, 186, 158, 127, 107, 99, 93, 80, 75],
+				"all_points_y": [113, 95, 106, 124, 132, 151, 172, 174, 174, 169, 168, 148, 134, 111, 113]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"image64.jpg43162": {
+		"filename": "image64.jpg",
+		"size": 43162,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [466, 480, 501, 502, 474, 455, 466],
+				"all_points_y": [130, 137, 137, 119, 112, 114, 130]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}, {
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [487, 479, 484, 478, 485, 492, 507, 525, 526, 526, 497, 484, 485, 482, 487],
+				"all_points_y": [242, 264, 279, 306, 349, 368, 359, 329, 282, 246, 233, 248, 248, 255, 242]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"image63.jpg12052": {
+		"filename": "image63.jpg",
+		"size": 12052,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [122, 152, 186, 210, 237, 250, 264, 270, 270, 250, 242, 225, 217, 191, 181, 174, 160, 133, 122],
+				"all_points_y": [69, 67, 76, 79, 79, 87, 106, 133, 171, 186, 211, 217, 225, 191, 179, 139, 108, 86, 69]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"image62.jpg115110": {
+		"filename": "image62.jpg",
+		"size": 115110,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [255, 269, 280, 286, 318, 376, 520, 623, 675, 675, 665, 646, 601, 540, 459, 404, 317, 249, 241, 251, 255],
+				"all_points_y": [443, 458, 486, 503, 508, 504, 504, 501, 508, 476, 465, 434, 421, 415, 420, 418, 423, 419, 428, 433, 443]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"image61.jpeg7872": {
+		"filename": "image61.jpeg",
+		"size": 7872,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polygon",
+				"all_points_x": [151, 144, 134, 125, 120, 133, 145, 150, 165, 172, 157, 151],
+				"all_points_y": [67, 83, 95, 104, 120, 124, 108, 102, 88, 68, 64, 67]
+			},
+			"region_attributes": {
+				"Class Name": "damage"
+			}
+		}],
+		"file_attributes": {}
+	}
+}
